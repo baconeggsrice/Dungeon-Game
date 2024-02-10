@@ -1,0 +1,37 @@
+body {
+    background-image: url("images/NaniMackerelWebpageBackground.gif");
+      background-repeat: no-repeat;
+      background-size: cover;
+    color: #f030d6;
+    image-rendering: pixelated;
+  }
+  
+  h1 {
+    font-family: "Arial Narrow";
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  h2 {
+    font-family: "Times New Roman";
+    font-style: italic;
+    padding: 20px;
+  }
+  
+  iframe {
+    height: 20%;
+    margin: 20px;
+    width: 25%;
+  }
+  
+  #music {
+    padding: 25px;
+    text-align: center;
+    width: 35%;
+  }
+  
+  td {
+    border: 2px solid #d14fc2;
+    padding: 10px;
+  }
